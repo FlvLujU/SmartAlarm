@@ -1,0 +1,38 @@
+msgid "show"
+msgstr "Mostrar Teclado"
+
+msgid "conf"
+msgstr "Definições"
+
+msgid "more"
+msgstr "Mostrar Mais"
+
+msgid "back"
+msgstr "Sair"
+
+msgid "layout"
+msgstr "Layout & Design"
+
+msgid "custom"
+msgstr "Personalização"
+
+msgid "input"
+msgstr "Input & Escrita"
+
+msgid "lang"
+msgstr "Lingua"
+
+msgid "acc"
+msgstr "Acessibilidade"
+
+msgid "size"
+msgstr "Tamanho de Letra"
+
+msgid "big"
+msgstr "Modo de Dedos Grandes"
+
+msgid "vib"
+msgstr "Vibração"
+
+msgid "ret"
+msgstr "Retroceder"
